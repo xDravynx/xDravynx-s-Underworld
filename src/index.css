@@ -1,0 +1,17 @@
+/* 
+Coolers Swatch Name: Ocean Tech Minimal
+Colors:
+    - Primary Blue: #0077b6
+    - Dark Slate: #1d3557
+    - Background Gray: #f8f9fa
+    - Border/Muted Gray: #e9ecef
+    - Accent Red: #e63946
+*/
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen';
+  background-color: #f8f9fa;
+  color: #1d3557;
+}
